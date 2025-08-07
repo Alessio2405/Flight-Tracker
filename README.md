@@ -45,15 +45,14 @@ This project is set up to run directly in a browser that supports ES modules and
     cd live-flight-tracker
     ```
 
-2.  **Open `index.html`:**
-    You can open the `index.html` file directly in your web browser. For the best experience, serve the file using a simple local server to avoid potential issues with file pathing.
-    
-    If you have Python installed:
+2.  **Run:**
     ```bash
-    # For Python 3
-    python -m http.server
+    npm install
     ```
-    Then, navigate to `http://localhost:8000` in your browser.
+    
+     ```bash
+    npm run build
+    ```
 
 ## 📄 License
 
