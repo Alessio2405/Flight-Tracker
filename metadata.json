@@ -1,0 +1,5 @@
+{
+  "name": "Live Flight Tracker",
+  "description": "A web application that allows users to visualize live flight data on an interactive map, build and maintain a personalized watchlist of flights, and receive real-time updates for tracked flights.",
+  "requestFramePermissions": []
+}
